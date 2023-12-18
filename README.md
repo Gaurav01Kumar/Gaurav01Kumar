@@ -1,4 +1,4 @@
-![logo]https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?size=626&ext=jpg&ga=GA1.1.1392342234.1702869595&semt=ais
+![logo](https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.1.1392342234.1702869595&semt=ais)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate frontend developer from Bihar India.</h3>
 
