@@ -1,6 +1,6 @@
 ![logo](https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.1.1392342234.1702869595&semt=ais)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">A passionate frontend developer from Bihar India.</h3>
+<h3 align="center">A passionate Full-stack developer from Bihar India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav01kumar&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav01kumar" /> </p>
 
