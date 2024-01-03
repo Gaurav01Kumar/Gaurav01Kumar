@@ -1,4 +1,4 @@
-![logo](https://github.com/Gaurav01Kumar/Gaurav01Kumar/blob/main/112-installing.png)
+![logo](https://github.com/Gaurav01Kumar/Gaurav01Kumar/blob/main/119-working.png)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate Full-stack developer from Bihar India.</h3>
 
