@@ -1,6 +1,6 @@
 ![logo](https://github.com/Gaurav01Kumar/Gaurav01Kumar/blob/main/119-working.png)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">A passionate Full-stack developer from Bihar India.</h3>
+<h3 align="center">A passionate a Full-stack developer  from Bihar India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav01kumar&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav01kumar" /> </p>
 
